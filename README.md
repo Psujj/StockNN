@@ -1,3 +1,6 @@
+Stock Predicting Neural Network designed for my Intro to Machine Learning Class
+
+
 pip commands:
 
 pip install yfinance
